@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexToStateMachine", "RegexToStateMachine\RegexToStateMachine.csproj", "{19A7205A-26C1-4F54-A0C1-7F53F90308C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexToStateMachineTests", "RegexToStateMachineTests\RegexToStateMachineTests.csproj", "{A4932077-FFC8-401D-BD8C-4EBE39C06153}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs23
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RegexToStateMachine\\RegexToStateMachine.csproj
+		SccProjectName1 = RegexToStateMachine
+		SccLocalPath1 = RegexToStateMachine
+		SccProjectUniqueName2 = RegexToStateMachineTests\\RegexToStateMachineTests.csproj
+		SccProjectName2 = RegexToStateMachineTests
+		SccLocalPath2 = RegexToStateMachineTests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A7205A-26C1-4F54-A0C1-7F53F90308C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A7205A-26C1-4F54-A0C1-7F53F90308C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A7205A-26C1-4F54-A0C1-7F53F90308C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A7205A-26C1-4F54-A0C1-7F53F90308C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4932077-FFC8-401D-BD8C-4EBE39C06153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4932077-FFC8-401D-BD8C-4EBE39C06153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4932077-FFC8-401D-BD8C-4EBE39C06153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4932077-FFC8-401D-BD8C-4EBE39C06153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
